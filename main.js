@@ -5,6 +5,13 @@ const quotes = [{
     quote: ` The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.`,
     author: `– Winston Churchill`
 },{
+    quote: `Neekendukura ee website UNGAMMA`,
+    author: `– Smaran Balla`
+    
+},{
+    quote: ` Mongo MIST`,
+    author: `– YshnavCH`
+},         {
     quote:` Don’t Let Yesterday Take Up Too Much Of Today.` ,
     author: `– Will Rogers`
 },{
